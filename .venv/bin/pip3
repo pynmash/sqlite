@@ -1,4 +1,4 @@
-#!/home/dan/code/sqlite/.venv/bin/python
+#!/Users/dan/Documents/code/sqlite/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
